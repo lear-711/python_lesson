@@ -1,0 +1,3 @@
+Hello world!
+I am learning Python
+It is nice practice
